@@ -130,7 +130,12 @@ Full database data extraction:
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+## 📸 Screenshots
+
+![Normal](1-normal.png)
+![Injection](2-injection.png)
+![Union](3-union.png)
+![Data](4-data.png)
 
 ---
 
